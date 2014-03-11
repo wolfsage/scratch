@@ -1,0 +1,1 @@
+Docs say hv_iterinit returns same as HvUSEDKEYS, but actually uses HvTOTALKEYS
